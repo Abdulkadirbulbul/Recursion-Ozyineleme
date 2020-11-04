@@ -1,4 +1,4 @@
-# Recursion (Ozyineleme)
+# Recursion (Özyineleme)
 
 <html>
 <body>
