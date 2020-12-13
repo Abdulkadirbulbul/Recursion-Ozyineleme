@@ -24,7 +24,7 @@ Bu metodumuzda bulunan öz yineleme örnekleri;
 </ul>
 <h3>
 
-<a href="https://www.linkedin.com/in/abdulkadirbulbul/" target="_blank"><img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_960_720.png" width="50px" height="300px">
+<a href="https://www.linkedin.com/in/abdulkadirbulbul/" target="_blank"><img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668696_960_720.png" width="50px" height="50px">
 </a>
 <a href="https://www.instagram.com/benkadirbulbul/" target="_blank"><img src="https://gempire.co/wp-content/uploads/2018/05/instagram-round-flat-512.png" width="45px" height="45px">
 </a>
